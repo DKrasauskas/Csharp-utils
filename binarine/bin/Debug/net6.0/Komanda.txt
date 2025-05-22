@@ -1,0 +1,6 @@
+Jonas Jonaitis;    1998; 200; 15
+Petras Petraitis;  1995; 199; 12
+Rokas Petraitis;   1997; 195; 12
+Rokas Rokaitis;    1991; 188; 12
+Zigmas Zigmaitis;  1990; 199;  8
+Zigmas Zigmaitis;  1990; 199;  9

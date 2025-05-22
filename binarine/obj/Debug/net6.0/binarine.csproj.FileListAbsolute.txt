@@ -1,0 +1,15 @@
+C:\Users\NNN\source\repos\binarine\binarine\bin\Debug\net6.0\binarine.exe
+C:\Users\NNN\source\repos\binarine\binarine\bin\Debug\net6.0\binarine.deps.json
+C:\Users\NNN\source\repos\binarine\binarine\bin\Debug\net6.0\binarine.runtimeconfig.json
+C:\Users\NNN\source\repos\binarine\binarine\bin\Debug\net6.0\binarine.dll
+C:\Users\NNN\source\repos\binarine\binarine\bin\Debug\net6.0\binarine.pdb
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\binarine.csproj.AssemblyReference.cache
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\binarine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\binarine.AssemblyInfoInputs.cache
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\binarine.AssemblyInfo.cs
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\binarine.csproj.CoreCompileInputs.cache
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\binarine.dll
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\refint\binarine.dll
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\binarine.pdb
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\binarine.genruntimeconfig.cache
+C:\Users\NNN\source\repos\binarine\binarine\obj\Debug\net6.0\ref\binarine.dll
